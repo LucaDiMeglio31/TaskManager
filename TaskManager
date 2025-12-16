@@ -1,0 +1,5 @@
+Introduzione
+La pianificazione e l’assegnazione delle attività all’interno di un team di lavoro rappresentano una delle principali sfide organizzative in ambito aziendale, soprattutto quando le attività richiedono competenze eterogenee e devono essere completate entro vincoli temporali stringenti.
+Un’allocazione inefficiente delle risorse può causare ritardi, sovraccarichi di lavoro e una riduzione complessiva della produttività del team.
+In questo progetto viene affrontato il problema della pianificazione delle attività in un contesto aziendale generico, modellando il processo decisionale come un problema di intelligenza artificiale.
+L’obiettivo è supportare il manager nella costruzione di un piano di lavoro a medio-lungo termine, organizzato su sprint settimanali, che tenga conto delle competenze dei membri del team, delle priorità delle attività e dei vincoli temporali.
